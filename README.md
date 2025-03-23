@@ -5,3 +5,9 @@ It is compatible with GNU/Linux, and despite its potential compatibility with mo
 
 Dependecies:
 - The GUI version requires zenity.
+
+### Credits
+
+- [zenity](https://gitlab.gnome.org/GNOME/zenity)
+
+
