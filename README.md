@@ -1,3 +1,7 @@
+# **WARNING**
+## **This repo is archived, this project has moved to Codeberg**
+
+
 # dir-bck
 A little backup script with tar
 
